@@ -1,6 +1,6 @@
 # IntelliJ IDEA settings
 .idea/
-pointless-chat.iml
+*.iml
 
 # Maven build directory
 target/
